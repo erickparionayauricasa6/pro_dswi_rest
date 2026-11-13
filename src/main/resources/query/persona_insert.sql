@@ -1,0 +1,10 @@
+insert into persona (nombre, apellido, edad) values ('Dane', 'Boulde', 1);
+insert into persona (nombre, apellido, edad) values ('Kaspar', 'Olden', 2);
+insert into persona (nombre, apellido, edad) values ('Raye', 'Thake', 3);
+insert into persona (nombre, apellido, edad) values ('Savina', 'Schwanden', 4);
+insert into persona (nombre, apellido, edad) values ('Gris', 'Scinelli', 5);
+insert into persona (nombre, apellido, edad) values ('Rikki', 'Ticksall', 6);
+insert into persona (nombre, apellido, edad) values ('Doris', 'Rainger', 7);
+insert into persona (nombre, apellido, edad) values ('Ravi', 'Ottiwill', 8);
+insert into persona (nombre, apellido, edad) values ('Aldin', 'Reichhardt', 9);
+insert into persona (nombre, apellido, edad) values ('Latrina', 'Bridge', 10);
